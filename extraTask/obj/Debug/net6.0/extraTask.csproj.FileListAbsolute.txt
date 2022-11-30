@@ -1,0 +1,15 @@
+/Users/anastasiaolegovna/Desktop/C#seminar3/extraTask/bin/Debug/net6.0/extraTask
+/Users/anastasiaolegovna/Desktop/C#seminar3/extraTask/bin/Debug/net6.0/extraTask.deps.json
+/Users/anastasiaolegovna/Desktop/C#seminar3/extraTask/bin/Debug/net6.0/extraTask.runtimeconfig.json
+/Users/anastasiaolegovna/Desktop/C#seminar3/extraTask/bin/Debug/net6.0/extraTask.dll
+/Users/anastasiaolegovna/Desktop/C#seminar3/extraTask/bin/Debug/net6.0/extraTask.pdb
+/Users/anastasiaolegovna/Desktop/C#seminar3/extraTask/obj/Debug/net6.0/extraTask.csproj.AssemblyReference.cache
+/Users/anastasiaolegovna/Desktop/C#seminar3/extraTask/obj/Debug/net6.0/extraTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anastasiaolegovna/Desktop/C#seminar3/extraTask/obj/Debug/net6.0/extraTask.AssemblyInfoInputs.cache
+/Users/anastasiaolegovna/Desktop/C#seminar3/extraTask/obj/Debug/net6.0/extraTask.AssemblyInfo.cs
+/Users/anastasiaolegovna/Desktop/C#seminar3/extraTask/obj/Debug/net6.0/extraTask.csproj.CoreCompileInputs.cache
+/Users/anastasiaolegovna/Desktop/C#seminar3/extraTask/obj/Debug/net6.0/extraTask.dll
+/Users/anastasiaolegovna/Desktop/C#seminar3/extraTask/obj/Debug/net6.0/refint/extraTask.dll
+/Users/anastasiaolegovna/Desktop/C#seminar3/extraTask/obj/Debug/net6.0/extraTask.pdb
+/Users/anastasiaolegovna/Desktop/C#seminar3/extraTask/obj/Debug/net6.0/extraTask.genruntimeconfig.cache
+/Users/anastasiaolegovna/Desktop/C#seminar3/extraTask/obj/Debug/net6.0/ref/extraTask.dll
